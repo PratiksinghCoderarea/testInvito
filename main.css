@@ -366,9 +366,10 @@ a {
      .imgBx{
          height:1000px;
      }
-     h3,h1,body,p{
-         font-size:50px;
+     .message,.col-9 .card .top .userDetails h3, #post1Button{
+         font-size:40px;
      }
+
 } 
 
 @media screen and (max-width: 450px) {

@@ -363,6 +363,9 @@ a {
     .button-50{
         font-size: 20px;3
     }
+     .imgBx{
+         height:1000px;
+     }
 } 
 
 @media screen and (max-width: 450px) {
